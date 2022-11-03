@@ -14,5 +14,7 @@ Wait for the update ...  :hourglass:
 
 <a id="1">[1]</a> Michael Hertneck et al. “Learning an Approximate Model Predictive Controller with Guarantees”.
 In: IEEE Control Systems Letters 2 (3 July 2018), pp. 543–548. issn: 24751456. doi: <a href="https://doi.org/10.1109/LCSYS.2018.2843682">https://doi.org/10.1109/LCSYS.2018.2843682</a>.
+
+
 <a id="2">[2]</a> Michael Hertneck et al. Learning an Approximate Model Predictive Controller with Guarantees
 Student Thesis. 2018.
